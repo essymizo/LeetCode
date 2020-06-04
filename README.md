@@ -5,4 +5,6 @@ Has an online IDE for most of the programming languages and analyze code perform
 The repo has 1000+ coding problems with topics ranging from algorithms, DS, DP etc 
 The competition are tougher than Hackerrank (In my opinion) 
 
-Feel free to add to master or fork to create your own
+![alt text](https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png)
+
+***Feel free to add to master or fork to create your own****
